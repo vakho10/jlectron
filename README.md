@@ -1,9 +1,8 @@
 # ![](frontend/public/images/logo_32.png) Jlectron
 
 Jlectron is a Java desktop application framework that combines **Spring Boot**, **Angular**, and **JCEF (Java Chromium
-Embedded Framework)** to create cross-platform, Electron-like applications using Java and web technologies.
-
-This repository contains a multi-module Maven project with frontend, backend, and packaging modules.
+Embedded Framework)** to create cross-platform, Electron-like applications using Java and web technologies. This repository
+contains a multi-module Maven project with frontend, backend, and packaging modules.
 
 ---
 
