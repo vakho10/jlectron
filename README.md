@@ -1,4 +1,4 @@
-# ![](https://github.com/vakho10/jlectron/blob/main/frontend/public/images/logo_32.png) Jlectron
+# ![](frontend/public/images/logo_32.png) Jlectron
 
 Jlectron is a Java desktop application framework that combines **Spring Boot**, **Angular**, and **JCEF (Java Chromium
 Embedded Framework)** to create cross-platform, Electron-like applications using Java and web technologies.
